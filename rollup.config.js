@@ -40,7 +40,8 @@ const inputOptions = {
 	const inputOptionsMinify ={
 		input: 'src/index.js',
 		plugins: [
-			resolve(),
+      resolve(),
+      commonjs(),
 			eslint.eslint(),
 			cleanup({
 			  comments: 'all'
