@@ -9,7 +9,6 @@
 import * as THREE from 'three'
 import TWEEN from './tween.min.js'
 import * as $ from './util'
-import Shaderlib from './three.ShaderLibExp'
 import Font3D  from './Font3D.js'
 
 

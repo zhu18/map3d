@@ -922,9 +922,10 @@ Object.assign(THREE.EventDispatcher.prototype,{dispatchEvent: function ( event) 
 }})
 Object.assign( Map3D.prototype, THREE.EventDispatcher.prototype );
 
-export {
-  Map3D as default,
-  Area,
-  Mark,
-  Line
-}
+// export {
+//   Map3D,
+//   Area,
+//   Mark,
+//   Line
+// }
+export default Map3D

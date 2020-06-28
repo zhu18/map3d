@@ -1,14 +1,14 @@
 {
   "name": "map3d",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "wegbl 3d map",
   "main": "index.js",
   "scripts": {
-    "build": "node rollup.config.js -c",
+    "build": "rollup -c rollup.config.js ",
     "start": "npm run dev"
   },
   "keywords": [
-    "3dmap"
+    "3dmap","3D地图"
   ],
   "dependencies": {
     "three": "^0.102.1"

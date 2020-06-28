@@ -95,4 +95,3 @@ THREE.ShaderLib.createShaderMaterial = function (shader,side,blending) {
 }
 
 
-console.log(THREE.ShaderLib)

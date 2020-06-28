@@ -2,7 +2,7 @@
 const pJson = require('./package.json')
 const banner = `
 /**
-* ${pJson.name} V${pJson.version}
+* ${pJson.name} v${pJson.version}
 * (c) 2018-${new Date().getFullYear()}
 * Copyright all contributors
 * @license Released under ${pJson.license} license.
