@@ -1,4 +1,4 @@
-# map3d Visualization Platform Kernel
+# map3d 
 
 
 [![npm Status](https://badgen.net/npm/v/map3d/?icon=npm)](https://www.npmjs.com/package/map3d)
