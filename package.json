@@ -11,7 +11,7 @@
     "3dmap","3D地图"
   ],
   "dependencies": {
-    "three": "^0.102.1"
+    "three": "^0.137.0"
   },
   "devDependencies": {
     "rollup": "^1.27.5",
